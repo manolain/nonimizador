@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+#pylint: skip-file
+calles = [u"Calle Málaga", u"Calle Colón", u"Calle Pío IX", u"Calle San Pío X", u"Calle San Pío V", 
+          u"Avenida del Puerto", u"Plaza Luis Martí Alegre", u"Calle General Elio", u"Calle Reina Doña Germana",
+          u"Avenida Peris y Valero", u"Calle la Paz", u"Calle Duque de Calabria", u"Plaza Centenar de la Ploma",
+          u"Calle Sevilla", u"Calle Cádiz", u"Calle Lérida", u"Calle Reus", u"Calle Valle de Laguar", 
+          u"Calle Joaquín Ballester", u"Calle Padre Ferris", u"Plaza Redonda", u"Plaza Lope de Vega", 
+          u"Plaza Doctor Collado", u"Plaza del Mercado", u"Avenida Barón de Cárcer", u"Calle Doctor Nicasio Benlloch", 
+          u"Calle Doctor Manuel Candela", u"Calle Hipólito Rovira", u"Calle Alcublas", u"Calle Ricardo Micó",
+          u"Calle Conchita Piquer", u"Calle San Pancracio", u"Calle San Columbano", u"Calle San Cristóbal",
+          u"Plaza San Pedro Nolasco", u"Plaza Actor Enrique Rambal", u"Calle Ismael Merlo", u"Calle Vicente Parra",
+          u"Calle Actor Rivelles", u"Calle Cuba", u"Calle Denia", u"Calle Filipinas", u"Calle Sueca", u"Calle Nino Bravo",
+          u"Calle Actor Daniel Benítez", u"Calle Dolores Márques", u"Calle Escalante", u"Calle Puerto Rico", u"Calle Segorbe",
+          u"Calle General San Martín", u"Calle Castellón", u"Calle Duque de Mandas", u"Calle Motilla del Palancar",
+          u"Calle Santa Genoveva Torres", u"Calle Santiago Rusiñol", u"Plaza Almoina", u"Plaza Ayuntamiento", u"Plaza Manises", 
+          u"Plaza la Virgen", u"Calle Pascual y Genís", u"Calle Don Juan de Austria", u"Calle Pintor Sorolla", 
+          u"Calle Doctor Romagosa", u"Calle Na Jordana", u"Calle Gutenberg", u"Calle Líria", u"Calle Marqués de Caro",
+          u"Calle General Prim", u"Calle Donoso Cortés", u"Calle Consolat de Mar", u"Calle Maestro Padilla", u"Calle Pintor Vilar",
+          u"Calle Litógrafo Pascual y Abad", u"Calle Literato Azorín", u"Calle Evaristo Crespo Azorín", u"Avenida Valladolid",
+          u"Calle Albocácer", u"Calle Benicarló", u"Calle Utiel", u"Calle Viver", u"Avenida Malvarrosa", u"Calle Eugenia Viñes",
+          u"Calle Padre Antón Martín", u"Calle Río Tajo", u"Calle Doctor Gil y Morte", u"Calle Río Ebro", u"Calle Río Miño", 
+          u"Calle Río Cabriel"]
